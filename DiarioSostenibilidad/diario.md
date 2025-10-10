@@ -12,3 +12,11 @@
 - Hoy con Miguel hemos hablado sobre los animales donde nosotros los humanos no nos diferenciamos mucho de los animales donde nosotros tambíen nos guiamos por instintos donde la unica diferencia esque los animales se guian más por sus instintos de caza o supervivencia animal mientras que nosotros poseemos una cosa que ellos carecen y es "el Razonamiento".
 - La pregunta que nos ha formulado hoy es ¿Acabaremos con la vida de nuestro planeta?
 - Yo pienso que si, debido a que algun dia se acabaran los recursos de nuestro planeta se acabaran y cuando se acaben volveremos a nuestros instintos animales por la lucha por la supervivencia esto ya lo formulo Charles Darwin, donde sobrevive el más fuerte, el que tiene más, el más poderoso de todos y al final solo quede uno o los más poderosos se vallan a otro planeta.
+
+### 10/10/2025
+
+- Hoy con Miguel hemos hablado sobre la **capacidad de carga en nuestro mundo**.
+- Hemos aprendido que la capacidad de carga es el número máximo de individuos que un ecosistema puede mantener sin agotar sus recursos.
+- También nos preguntamos si **¿existe un límite para la población humana?**, y yo creo que **sí lo hay**, aunque no es fácil de calcular.
+- Ese límite depende de factores como la **disponibilidad de recursos naturales**, la **tecnología**, la **forma en que consumimos** y el **impacto ambiental** que generamos.
+- En conclusión, el planeta puede sostenernos **solo si usamos los recursos de manera responsable y equilibrada**.
