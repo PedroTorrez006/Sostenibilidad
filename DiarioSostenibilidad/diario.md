@@ -20,3 +20,8 @@
 - También nos preguntamos si **¿existe un límite para la población humana?**, y yo creo que **sí lo hay**, aunque no es fácil de calcular.
 - Ese límite depende de factores como la **disponibilidad de recursos naturales**, la **tecnología**, la **forma en que consumimos** y el **impacto ambiental** que generamos.
 - En conclusión, el planeta puede sostenernos **solo si usamos los recursos de manera responsable y equilibrada**.
+
+### 17/10/2025
+- Hoy con Miguel hemos hablado sobre **las relaciones entre especies.**
+- Hemos visto las diferentes relaciones que hay entre las especies en las que algunas especies salen beneficiando, otras salen perjudicadas las dos y otras una la más fuerte se fuerte se aprovecha de la más debil
+- También nos ha preguntado **¿Que hacemos nosotros: cooperamos o competimos?**, yo creo que la gran mayoria se cooperan, se apoyan los unos en los otros,porque nosotros como especies a lo largo de la historia hemos visto que luchar entre nosotros no lleva a nada solo lleva a destrucción y caos, y si queremos conservar nuestro planeta deberiamos cooperar los unos en los otros.

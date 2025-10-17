@@ -4,6 +4,16 @@
 
 ## Octubre
 
+### 17/10/2025
+**Tema:** Las relaciones entre especies  
+**Pregunta del día:** ¿Cooperamos o competimos?
+
+Hoy con Miguel hablamos sobre las relaciones entre especies. Aprendimos que existen distintos tipos de relaciones: en algunas, ambas especies se benefician; en otras, una sale perjudicada; y también hay casos en los que una especie más fuerte se aprovecha de otra más débil.
+
+En cuanto a la pregunta, *¿cooperamos o competimos?*, pienso que la mayoría de las veces las personas cooperamos. Nos apoyamos unos a otros, porque a lo largo de la historia hemos aprendido que luchar entre nosotros solo lleva a la destrucción y al caos. Si queremos conservar nuestro planeta, debemos seguir cooperando y ayudándonos mutuamente.
+
+---
+
 ### 10/10/2025
 **Tema:** La capacidad de carga del planeta  
 **Pregunta del día:** ¿Hay un límite para la población humana?
