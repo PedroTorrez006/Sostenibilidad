@@ -4,6 +4,25 @@
 
 ## Octubre
 
+### 24/10/2025
+**Tema:** Las estrategias K y r  
+**Pregunta del día:** ¿Qué estrategias usamos los humanos?
+
+Hoy con Miguel hemos hablado sobre las estrategias **K** y **r**.  
+Aprendimos que existen dos formas principales en que los seres vivos se reproducen y aseguran la supervivencia de su especie:
+
+La **estrategia K** corresponde a aquellos seres que tienen **poca descendencia**, **cuidan mejor a sus crías** y suelen tener **una vida más estable y larga**.  
+Ejemplos de estos seres son los **elefantes**, **leones** y **humanos**.
+
+Por otro lado, la **estrategia r** se refiere a los seres que tienen **una gran cantidad de descendencia**, pero **los padres no se encargan del cuidado**.  
+Estos organismos **se adaptan rápidamente**, aunque su vida suele ser **más corta** debido a la constante lucha por la supervivencia.  
+Ejemplos de esta estrategia son los **peces**, **anfibios** e **insectos**.
+
+En respuesta a la pregunta del día, los **humanos** usamos una **estrategia K**, ya que tenemos **poca descendencia (entre 2 y 4 hijos)** y los padres desarrollan un fuerte **sentido de protección y cuidado**.  
+Además, poseemos una **larga esperanza de vida**, que suele estar entre los **80 y 100 años**.
+
+---
+
 ### 17/10/2025
 **Tema:** Las relaciones entre especies  
 **Pregunta del día:** ¿Cooperamos o competimos?

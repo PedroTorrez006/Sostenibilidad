@@ -25,3 +25,9 @@
 - Hoy con Miguel hemos hablado sobre **las relaciones entre especies.**
 - Hemos visto las diferentes relaciones que hay entre las especies en las que algunas especies salen beneficiando, otras salen perjudicadas las dos y otras una la más fuerte se fuerte se aprovecha de la más debil
 - También nos ha preguntado **¿Que hacemos nosotros: cooperamos o competimos?**, yo creo que la gran mayoria se cooperan, se apoyan los unos en los otros,porque nosotros como especies a lo largo de la historia hemos visto que luchar entre nosotros no lleva a nada solo lleva a destrucción y caos, y si queremos conservar nuestro planeta deberiamos cooperar los unos en los otros.
+
+### 24/10/2025
+- Hoy con Miguel hemos hablado sobre **Las estrategias K y r**.
+- Hemos visto las diferencias de las estrategias K y r, la K se refiere a aquellos seres que tienen menos descendencia, cuaidan mejor a las crías además estos seres tienen una vida más estable y más larga un ejemplo son los elefantes, leones y humanos.
+- En cambio las estrategias r se refiere a aquellos seres que tienen una gran abundancia de descendencia, pero los padres no se hacen cargo de las crías estos seres se adaptan más rapido a la vida, pero posen una vida más corta debido a la constante lucha por la supervivencia un ejemplo son los peces, anfibios e insectos.
+- Nos ha preguntado es **¿Qué estrategias usamos los humanos?**, Nosotros los humanos somos seres de estrategia K ya que el ser humano tiene poca descendia entre 2 y 4 hijos y los padres desarrollan un sentido de cuidar y proteger a la descendencia además los seres humanos tenemos una larga vida siendo el promedio entre los 80 y 100 años.
