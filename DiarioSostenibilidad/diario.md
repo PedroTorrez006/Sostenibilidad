@@ -31,3 +31,7 @@
 - Hemos visto las diferencias de las estrategias K y r, la K se refiere a aquellos seres que tienen menos descendencia, cuaidan mejor a las crías además estos seres tienen una vida más estable y más larga un ejemplo son los elefantes, leones y humanos.
 - En cambio las estrategias r se refiere a aquellos seres que tienen una gran abundancia de descendencia, pero los padres no se hacen cargo de las crías estos seres se adaptan más rapido a la vida, pero posen una vida más corta debido a la constante lucha por la supervivencia un ejemplo son los peces, anfibios e insectos.
 - Nos ha preguntado es **¿Qué estrategias usamos los humanos?**, Nosotros los humanos somos seres de estrategia K ya que el ser humano tiene poca descendia entre 2 y 4 hijos y los padres desarrollan un sentido de cuidar y proteger a la descendencia además los seres humanos tenemos una larga vida siendo el promedio entre los 80 y 100 años.
+
+### 31/10/2025
+- Hoy con Miguel hemos hablado sobre **la tierra es un sistema finito**.
+- Hemos visto las diferentes formas de ahorrar en recursos como una bomba de agua sobre un acuífero. En este mundo como seres humanos debemos colaborar para ahorrar en recursos e incluso detener las amenazas que nos detiene en esa idea de sostenibilidad como las guerras, el hambre, la contaminación y muchas más. 

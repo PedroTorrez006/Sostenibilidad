@@ -4,6 +4,14 @@
 
 ## Octubre
 
+### 31/10/2025
+**Tema:la tierra es un sistema finito**
+
+Hemos visto las diferentes formas de ahorrar en recursos como una bomba de agua sobre un acuífero.
+En este mundo como seres humanos debemos colaborar para ahorrar en recursos e incluso detener las amenazas que nos detiene en esa idea de sostenibilidad como las guerras, el hambre, la contaminación y muchas más.
+
+---
+
 ### 24/10/2025
 **Tema:** Las estrategias K y r  
 **Pregunta del día:** ¿Qué estrategias usamos los humanos?
