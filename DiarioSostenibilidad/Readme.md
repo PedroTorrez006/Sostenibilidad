@@ -1,6 +1,45 @@
 # Diario de sostenibilidad de Pedro Torres Fernández
 
 ---
+## Noviembre
+
+### 14/11/2025
+**Tema:el ciclo de vida de los productos**
+
+![img.png](img.png)
+
+Hemos visto el ciclo de vida de la creación de un dispositivo movil de donde vienen los materiales que lo componen y el origen de estos.
+- El Análisis del Ciclo de Vida (ACV) es una metodología para cuantificar los impactos ambientales totales asociados a un producto o servicio a lo largo de todas sus etapas.
+- El ciclo se compone de cinco fases principales, tal como vimos en el diagrama: Obtención de Materia Prima, Producción, Distribución, Uso y Reciclaje/Fin de Vida.
+- Nos a preguntado **cuantas toneladas hay en el piso de distribución en el análisis del ciclo de vida de la creación de un dispositivo movil**
+
+La fase de Distribución (o Logística) en el Análisis del Ciclo de Vida (ACV) se centra en el transporte del producto terminado desde el sitio de producción (típicamente fábricas en Asia) hasta los centros de distribución, minoristas y, finalmente, al consumidor.
+La cantidad total de toneladas de dispositivos móviles en esta fase no es un valor único y cuantificable como resultado del ACV por las siguientes razones:
+1. El Objeto de Estudio del ACV
+   El ACV no busca calcular el inventario físico total de un producto en movimiento global, sino cuantificar los impactos ambientales generados por las actividades de su ciclo de vida.
+- Enfoque en la Carga Ambiental: En la distribución, el foco está en el consumo de combustible y las emisiones contaminantes derivadas del transporte (por carretera, ferrocarril, mar y aire).
+- La "Tonelada" Relevante: La unidad que utiliza el ACV para relacionar la masa con el movimiento es la Tonelada-Kilómetro ($\text{Ton.}\ \text{km}$).
+  $$  \text{Ton-Km} = \text{Masa del Producto (en Toneladas)} \times \text{Distancia Recorrida (en Kilómetros)}$$
+  Esta métrica permite comparar el impacto ambiental de enviar 1 tonelada de móviles por $100\ \text{km}$ frente a enviar $1\ \text{kg}$ de oro por $10,000\ \text{km}$. En el caso de los móviles, el peso es bajo, pero la distancia (el factor $km$) es enorme, resultando en un $\text{Ton.}\ \text{km}$ significativo.
+
+2. El Impacto de la Logística GlobalEl impacto en toneladas que se contabiliza en el ACV se refiere a los contaminantes liberados, no al peso del producto:
+- Emisiones de Gases de Efecto Invernadero (GEI): La principal preocupación ambiental. Se cuantifica el total de GEI liberados (como $CO_2$, metano, óxidos de nitrógeno) y se consolidan en una cifra de kilogramos de $\text{CO}_2$ equivalente ($\text{kg}\ \text{CO}_2\text{e}$). El peso de estos contaminantes liberados a la atmósfera puede, de hecho, sumar "toneladas", pero estas son toneladas de impacto, no de producto.
+- Consumo de Recursos: El peso de los combustibles fósiles (petróleo) que se consumen y se queman para mover la flota de transporte (camiones, buques y aviones). Este peso, que se transforma en energía y luego en emisiones, es parte del Inventario del Ciclo de Vida y puede sumar toneladas de recursos consumidos.
+
+3. El Caso Específico del Dispositivo Móvil
+   Los dispositivos móviles son productos con un alto valor por unidad de peso.
+- Bajo Peso del Producto: El peso individual es de aproximadamente 0.15 a 0.25 kg. El peso total de la mercancía en el piso de distribución (cajas, palés, embalaje secundario) es bajo comparado con el peso de los propios medios de transporte (barcos y aviones).
+- Uso de Transporte Aéreo: Debido a su alto valor, su bajo peso y la necesidad de una rápida comercialización, muchos dispositivos móviles utilizan transporte aéreo para la distribución intercontinental. El transporte aéreo tiene un impacto ambiental por $\text{Ton.}\ \text{km}$ significativamente mayor (muchas más emisiones por tonelada y kilómetro) que el transporte marítimo, lo que dispara las cifras de $\text{kg}\ \text{CO}_2\text{e}$ en esta fase.
+  En resumen: En un ACV, la fase de distribución de un dispositivo móvil se contabiliza no por las toneladas de producto en movimiento (que es una cifra variable e irrelevante para el impacto), sino por las toneladas de contaminantes liberados y las toneladas de combustible consumido para mover el producto a través de largas distancias.
+
+---
+
+### 01/11/2025
+
+- Ese día Miguel no vino a clase
+
+
+---
 
 ## Octubre
 
