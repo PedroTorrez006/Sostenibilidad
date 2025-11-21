@@ -3,6 +3,11 @@
 ---
 ## Noviembre
 
+### 21/11/2025
+- Hoy Miguel no ha venido
+
+---
+
 ### 14/11/2025
 **Tema:el ciclo de vida de los productos**
 

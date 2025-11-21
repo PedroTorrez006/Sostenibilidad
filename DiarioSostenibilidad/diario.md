@@ -64,3 +64,6 @@ Los dispositivos móviles son productos con un alto valor por unidad de peso.
 - Bajo Peso del Producto: El peso individual es de aproximadamente 0.15 a 0.25 kg. El peso total de la mercancía en el piso de distribución (cajas, palés, embalaje secundario) es bajo comparado con el peso de los propios medios de transporte (barcos y aviones).
 - Uso de Transporte Aéreo: Debido a su alto valor, su bajo peso y la necesidad de una rápida comercialización, muchos dispositivos móviles utilizan transporte aéreo para la distribución intercontinental. El transporte aéreo tiene un impacto ambiental por $\text{Ton.}\ \text{km}$ significativamente mayor (muchas más emisiones por tonelada y kilómetro) que el transporte marítimo, lo que dispara las cifras de $\text{kg}\ \text{CO}_2\text{e}$ en esta fase.
 En resumen: En un ACV, la fase de distribución de un dispositivo móvil se contabiliza no por las toneladas de producto en movimiento (que es una cifra variable e irrelevante para el impacto), sino por las toneladas de contaminantes liberados y las toneladas de combustible consumido para mover el producto a través de largas distancias.
+
+### 21/11/2025
+- Hoy Miguel no ha venido
