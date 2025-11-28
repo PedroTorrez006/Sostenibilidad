@@ -3,6 +3,20 @@
 ---
 ## Noviembre
 
+### 28/11/2025
+**Tema:** Economía Lienal y Circular 
+**Pregunta del día:** ¿y a mí que me cuentas?,¿En que nos afecta el ecodiseño?
+
+- Hoy con Miguel hemos visto la **Economía Lienal y Circular** son dos modelo distintos de modelo de producción y consumo y su impacto en el planeta
+
+- La **Economía Lineal** es el modelo económico que ha dominado la producción industrial desde la Revolución Industrial. Se basa en una cadena de valor de un solo uso que ignora los límites de los recursos naturales y la capacidad del planeta para absorber residuos.
+
+- La **Economía Circular** es una alternativa sistémica inspirada en la naturaleza, donde no existen los residuos. Su objetivo es mantener los productos, componentes y materiales en su máximo valor y utilidad el mayor tiempo posible. Y se basa en 3 principios fundamentales **Eliminar residuos**, **Circular los productos y materiales** y **Regenerar la naturaleza**.
+
+- Y en cuanto a la pregunta de hoy, El ecodiseño es un concepto técnico, pero tiene un impacto **directo** y **tangible** en la vida como consumidor y ciudadano como el ahorro económico, mayor durabilidad, menos tóxicos y menos basura. Y en cuanto a que nos afecta pues nos afecta porque es una herramienta muy importante para pasar de economía lineal y circular y así poder extender la vida de nuestro planeta. 
+
+---
+
 ### 21/11/2025
 - Hoy Miguel no ha venido
 
