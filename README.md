@@ -1,6 +1,43 @@
 # Diario de sostenibilidad de Pedro Torres Fernández
 
 ---
+
+## Diciembre
+
+### 05/12/2025
+**Tema:** Huella de carbono
+**Pregunta del día:** Reflexión sobre los resultados de mi huella de carbono 
+
+- Hoy con Miguel hemos visto la huella de carbono donde seria un indicador ambiental que reflaja la cantidad de gases de efecto invernadero.
+
+Aunque hablamos de "carbono", esta huella incluye varios gases (como el metano, el óxido nitroso y los gases fluorados), pero se unifican bajo una sola unidad para poder compararlos:
+
+- Se mide en masa de $\text{CO}_2$ equivalente ($\text{CO}_{2} \text{eq}$ o $\text{CO}_{2} \text{e}$).
+
+- Esto significa que el efecto de calentamiento de todos los GEI se traduce a la cantidad de dióxido de carbono ($\text{CO}_2$) que causaría el mismo calentamiento.
+
+La huella se puede aplicar a cualquier escala escala:
+
+- Personal: El impacto de tus hábitos diarios (transporte, dieta, consumo de energía en casa).
+
+- Productos: Las emisiones a lo largo de todo el ciclo de vida (desde la materia prima hasta el descarte o reciclaje).
+
+- Organizacional/Empresarial: Las emisiones generadas por las actividades de una empresa en un periodo de tiempo.
+
+Miguel nos ha propuesto calcular nuestra huella de carbono mediante una pagina web: https://www.footprintcalculator.org/home/es
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+El resultado es innegable y me golpea: necesito 4.6 Tierras. No es una cifra abstracta, es la medida de mi impacto insostenible. Vivo bajo una lógica de Economía Lineal que me obliga a consumir los recursos de todo un año antes del 21 de Marzo, mi personal Día de Sobregiro. El resto del tiempo, simplemente estoy agotando la capacidad de la Tierra.
+
+El principal motor de este desequilibrio es mi Huella de Carbono, que representa el 56% de mi impacto total y suma 12.1 toneladas de $\text{CO}_{2} \text{e}$. Esto me señala directamente: mi Movilidad, mi Abrigo y la producción de los Bienes y Servicios que compro están atados a fuentes de energía de alta emisión.
+
+La reflexión es clara: si no actúo, mi patrón de consumo seguirá exigiendo casi cinco planetas. La solución está en mis manos: debo dejar de lado la filosofía del 'usar y tirar' y empezar a exigir el Ecodiseño en cada producto. Mi meta a partir de hoy es mover esa fecha crítica de Sobregiro y dejar de vivir a costa del futuro del planeta.
+
+---
+
+
 ## Noviembre
 
 ### 28/11/2025
