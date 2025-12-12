@@ -4,6 +4,61 @@
 
 ## Diciembre
 
+### 12/12/2025
+**Tema:** Cambio climático
+**Pregunta del día:** ¿Cual es el principal emisor de $\text{CO}_2$? y ¿Que sistemas que podemos construir para mitigar el cambio climático?
+
+![alt text](image.png)
+- Hoy con Miguel hemos visto el cambio climático, donde el cambio climático es un fenómeno que describe las alteraciones significativas y duraderas en los patrones climáticos del planeta. Aunque el clima siempre ha variado de manera natural, desde mediados del siglo XIX las actividades humanas han acelerado este proceso a un ritmo sin precedentes.
+
+- Las principales causas de este cambio climático se debe a causas humanas como: Quema de combustibles fósiles (energía, transporte, industria), la Deforestación (la excesiva tala de arboles), la Agricultura intensiva y los Procesos industriales (cemento, acero, químicos).
+
+- Además contamos con Los Gases de efecto invernadero, donde los principales gases de efecto invernadero son el dióxido de carbono (CO₂), el metano (CH₄), el óxido nitroso (N₂O) y los gases fluorados. El CO₂ es el gas más abundante, generado principalmente por la quema de combustibles fósiles. El metano proviene de la ganadería, los vertederos y la extracción de combustibles fósiles. El óxido nitroso está asociado al uso de fertilizantes agrícolas. Los gases fluorados se utilizan en procesos industriales y son muy potentes y persistentes.
+
+
+- Y en cuanto a las preguntas del dia son: ¿Cual es el principal emisor de $\text{CO}_2$? y ¿Que sistemas que podemos construir para mitigar el cambio climático?
+
+- El principal emirsor de $\text{CO}_2$ es la quema de combustibles fósiles para producir energía (electricidad y calor), Esta actividad por sí sola es la mayor fuente de CO₂ del planeta porque usamos electricidad para casi todo: iluminar, calentar, refrigerar, fabricar, mover máquinas, etc.
+
+- Y en cuanto a los sistemas que podemos construir para mitigar el cambio climático tengo algunos ejemplos que serían: 
+
+- A) Sistemas de energía renovable
+    - Parques solares
+    - Parques eólicos terrestres y marinos
+    - Hidroeléctricas
+    - Geotermia
+    - Biomasa sostenible
+
+- B) Sistemas de transporte sostenible
+    - Vehículos eléctricos
+    - Trenes eléctricos
+    - Infraestructura ciclista
+    - Transporte público eficiente
+
+- C) Sistemas naturales de captura de carbono
+    - Reforestación
+    - Restauración de humedales
+    - Conservación de suelos
+    - Agricultura regenerativa
+
+- D) Sistemas tecnológicos de captura de carbono
+    - CCS (Captura y almacenamiento en origen)
+    - DAC (Captura directa del aire)
+    - Uso del CO₂ en procesos industriales
+
+- E) Sistemas de eficiencia energética
+    - Edificios inteligentes
+    - Aislamiento térmico
+    - Iluminación LED
+    - Maquinaria industrial eficiente
+
+- F) Sistemas económicos y políticos
+    - Impuestos al carbono
+    - Mercados de emisiones
+    - Normativas ambientales
+
+---
+
 ### 05/12/2025
 **Tema:** Huella de carbono
 **Pregunta del día:** Reflexión sobre los resultados de mi huella de carbono 
@@ -24,10 +79,11 @@ La huella se puede aplicar a cualquier escala escala:
 
 - Organizacional/Empresarial: Las emisiones generadas por las actividades de una empresa en un periodo de tiempo.
 
-Miguel nos ha propuesto calcular nuestra huella de carbono mediante una pagina web: https://www.footprintcalculator.org/home/es
-![alt text](image.png)
+Miguel nos ha propuesto calcular nuestra huella de carbono mediante una pagina web: 
 
-![alt text](image-1.png)
+
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 El resultado es innegable y me golpea: necesito 4.6 Tierras. No es una cifra abstracta, es la medida de mi impacto insostenible. Vivo bajo una lógica de Economía Lineal que me obliga a consumir los recursos de todo un año antes del 21 de Marzo, mi personal Día de Sobregiro. El resto del tiempo, simplemente estoy agotando la capacidad de la Tierra.
 

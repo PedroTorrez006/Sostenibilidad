@@ -14,7 +14,6 @@
 - Yo pienso que si, debido a que algun dia se acabaran los recursos de nuestro planeta se acabaran y cuando se acaben volveremos a nuestros instintos animales por la lucha por la supervivencia esto ya lo formulo Charles Darwin, donde sobrevive el más fuerte, el que tiene más, el más poderoso de todos y al final solo quede uno o los más poderosos se vallan a otro planeta.
 
 ### 10/10/2025
-
 - Hoy con Miguel hemos hablado sobre la **capacidad de carga en nuestro mundo**.
 - Hemos aprendido que la capacidad de carga es el número máximo de individuos que un ecosistema puede mantener sin agotar sus recursos.
 - También nos preguntamos si **¿existe un límite para la población humana?**, y yo creo que **sí lo hay**, aunque no es fácil de calcular.
@@ -104,3 +103,52 @@ El resultado es innegable y me golpea: necesito 4.6 Tierras. No es una cifra abs
 El principal motor de este desequilibrio es mi Huella de Carbono, que representa el 56% de mi impacto total y suma 12.1 toneladas de $\text{CO}_{2} \text{e}$. Esto me señala directamente: mi Movilidad, mi Abrigo y la producción de los Bienes y Servicios que compro están atados a fuentes de energía de alta emisión.
 
 La reflexión es clara: si no actúo, mi patrón de consumo seguirá exigiendo casi cinco planetas. La solución está en mis manos: debo dejar de lado la filosofía del 'usar y tirar' y empezar a exigir el Ecodiseño en cada producto. Mi meta a partir de hoy es mover esa fecha crítica de Sobregiro y dejar de vivir a costa del futuro del planeta.
+
+### 12/12/2025
+![alt text](image-2.png)
+- Hoy con Miguel hemos visto el cambio climático, donde el cambio climático es un fenómeno que describe las alteraciones significativas y duraderas en los patrones climáticos del planeta. Aunque el clima siempre ha variado de manera natural, desde mediados del siglo XIX las actividades humanas han acelerado este proceso a un ritmo sin precedentes.
+
+- Las principales causas de este cambio climático se debe a causas humanas como: Quema de combustibles fósiles (energía, transporte, industria), la Deforestación (la excesiva tala de arboles), la Agricultura intensiva y los Procesos industriales (cemento, acero, químicos).
+
+- Además contamos con Los Gases de efecto invernadero, donde los principales gases de efecto invernadero son el dióxido de carbono (CO₂), el metano (CH₄), el óxido nitroso (N₂O) y los gases fluorados. El CO₂ es el gas más abundante, generado principalmente por la quema de combustibles fósiles. El metano proviene de la ganadería, los vertederos y la extracción de combustibles fósiles. El óxido nitroso está asociado al uso de fertilizantes agrícolas. Los gases fluorados se utilizan en procesos industriales y son muy potentes y persistentes.
+
+
+- La pregunta del dia es: ¿Cual es el principal emisor de $\text{CO}_2$? y ¿Que sistemas que podemos construir para mitigar el cambio climático?
+
+- El principal emirsor de $\text{CO}_2$ es la quema de combustibles fósiles para producir energía (electricidad y calor), Esta actividad por sí sola es la mayor fuente de CO₂ del planeta porque usamos electricidad para casi todo: iluminar, calentar, refrigerar, fabricar, mover máquinas, etc.
+Y en cuanto a los sistemas que podemos construir para mitigar el cambio climático tengo algunos ejemplos que serían: 
+
+- A) Sistemas de energía renovable
+    - Parques solares
+    - Parques eólicos terrestres y marinos
+    - Hidroeléctricas
+    - Geotermia
+    - Biomasa sostenible
+
+- B) Sistemas de transporte sostenible
+    - Vehículos eléctricos
+    - Trenes eléctricos
+    - Infraestructura ciclista
+    - Transporte público eficiente
+
+- C) Sistemas naturales de captura de carbono
+    - Reforestación
+    - Restauración de humedales
+    - Conservación de suelos
+    - Agricultura regenerativa
+
+- D) Sistemas tecnológicos de captura de carbono
+    - CCS (Captura y almacenamiento en origen)
+    - DAC (Captura directa del aire)
+    - Uso del CO₂ en procesos industriales
+
+- E) Sistemas de eficiencia energética
+    - Edificios inteligentes
+    - Aislamiento térmico
+    - Iluminación LED
+    - Maquinaria industrial eficiente
+
+- F) Sistemas económicos y políticos
+    - Impuestos al carbono
+    - Mercados de emisiones
+    - Normativas ambientales
