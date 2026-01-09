@@ -152,3 +152,11 @@ Y en cuanto a los sistemas que podemos construir para mitigar el cambio climáti
     - Impuestos al carbono
     - Mercados de emisiones
     - Normativas ambientales
+
+### 09/01/2026
+
+![alt text](image-3.png)
+
+- Hoy con Miguel hemos visto la **Contaminación y Residuos** es uno de los mayores problemas que tenemos en nuestro mundo debido a que la gente tira a la basura objetos o comida que aun se pueden reutilizar de alguna forma, al tirar estos objetos provocamos un problema gravemente a todo lo que nos rodea como la tierra, el agua, el aire, etc..., Un ejemplo de a quien perjudicamos con estas acciones son algunas tribus Indus donde se tienen que bañar en un rio para bautizarse por motivo de su religión y ese rio en el que se bañan esta contaminado por fabricas que desechan esos residuos que nosotros tiramos y muchos Indus son envenenados al meterse al rio tóxico y un ejemplo de producto muy contaminante para el agua son las toallitas de vater ya que al tirar esa toallita se junta con más toallitas y se forma en un pegote gigante donde atasca la corriente del agua y cuando llega al mar miles peces se envenenan y esos peces son los que nos comemos luego, asi que al tirar algo a la basura o al vater hay que pensarselo mejor
+
+- la pregunta del día sería: **¿Porque cambias de movil?**, yo solo cambio de movil cuando este se rompe o se pasan ya varios años y ese movil se queda obsoleto ya que el movil es un aparato electronico que tiene consigo muchas herramientas y te permite trabajar pero si pasan demasiados años de ese modelo y en una empresa necesito un modelo superior para poder trabajar yo me lo compro y el anterior movil lo tiro en una papelera de reciclaje de moviles que esta en la misma tienda (Orange).
