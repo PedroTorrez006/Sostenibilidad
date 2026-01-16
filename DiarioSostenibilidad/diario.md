@@ -160,3 +160,27 @@ Y en cuanto a los sistemas que podemos construir para mitigar el cambio climáti
 - Hoy con Miguel hemos visto la **Contaminación y Residuos** es uno de los mayores problemas que tenemos en nuestro mundo debido a que la gente tira a la basura objetos o comida que aun se pueden reutilizar de alguna forma, al tirar estos objetos provocamos un problema gravemente a todo lo que nos rodea como la tierra, el agua, el aire, etc..., Un ejemplo de a quien perjudicamos con estas acciones son algunas tribus Indus donde se tienen que bañar en un rio para bautizarse por motivo de su religión y ese rio en el que se bañan esta contaminado por fabricas que desechan esos residuos que nosotros tiramos y muchos Indus son envenenados al meterse al rio tóxico y un ejemplo de producto muy contaminante para el agua son las toallitas de vater ya que al tirar esa toallita se junta con más toallitas y se forma en un pegote gigante donde atasca la corriente del agua y cuando llega al mar miles peces se envenenan y esos peces son los que nos comemos luego, asi que al tirar algo a la basura o al vater hay que pensarselo mejor
 
 - la pregunta del día sería: **¿Porque cambias de movil?**, yo solo cambio de movil cuando este se rompe o se pasan ya varios años y ese movil se queda obsoleto ya que el movil es un aparato electronico que tiene consigo muchas herramientas y te permite trabajar pero si pasan demasiados años de ese modelo y en una empresa necesito un modelo superior para poder trabajar yo me lo compro y el anterior movil lo tiro en una papelera de reciclaje de moviles que esta en la misma tienda (Orange).
+
+### 16/01/2026
+
+![alt text](image-4.png)
+
+- Hoy con Miguel hemos visto los **Objetivos de Desarrollo Sostenible (ODS)**, que serían esos objetivos planteados en el mundo por las Naciones Unidas en 2015 para acabar con problemas que afectan gravemente al planeta, estos objetivos abordan problemas que cada ves son más graves como la pobreza, el hambre, el medio ambiente y muchos más. Son Independiente y buscan u equilibrio entre el bienestar social, económico y ambiental. 
+
+Miguel nos ha hecho buscar en Internet argumentos a favor de los ODS y yo he encontrado estos:
+
+- Holísticos e Integrados: Abordan problemas interconectados (pobreza, desigualdad, clima) de manera equilibrada, reconociendo que el bienestar social, económico y ambiental están unidos.
+
+- Hoja de Ruta Global: Sirven como un plan de acción universal y una guía para que todos los países y actores trabajen hacia metas comunes para 2030.
+
+- Inclusión y Equidad: Buscan no dejar a nadie atrás, promoviendo la igualdad de género, la reducción de desigualdades y el acceso equitativo a recursos y oportunidades para todos.
+
+- Protección Ambiental: Impulsan la preservación de ecosistemas terrestres y marinos, la lucha contra el cambio climático y el uso responsable de recursos naturales.
+
+- Impulso Económico y Empresarial: Fomentan la innovación, identifican nuevas oportunidades de negocio, mejoran la reputación corporativa y atraen inversiones al alinear empresas con objetivos sostenibles.
+
+- Cooperación y Alianzas: Fortalecen la colaboración internacional y la participación de la sociedad civil, el sector privado y los gobiernos en la búsqueda de soluciones.
+
+- Mejora de la Calidad de Vida: Contribuyen a un entorno más saludable, una mejor salud pública y comunidades más resilientes, aumentando la esperanza y el bienestar. 
+
+- La pregunta del día sería: **¿Se van a conseguir algun día estos objetivos?**, Yo creo que existe una posibilidad de que se cumplan pero es una posibilidad baja debido a que en este mundo ninguno vamos a estar de acuerdo en cumplirlos debido a que lleva unos costes elevados para cumplir estos objetivos y algunos sacrificios que algunos les duele cumplirlos. En conclusión estos objetivos se pueden cumplir pero para que se cumplan debemos de estar todos de acuerdo y dejar el egoismo por un lado.
