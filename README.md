@@ -2,18 +2,6 @@
 
 ## Enero
 
-### 09/01/2026
-**Tema:** Contaminación y Residuos
-**Pregunta del día:** ¿Porque cambias de movil?
-
-![alt text](image-1.png)
-
-- Hoy con Miguel hemos visto la **Contaminación y Residuos** es uno de los mayores problemas que tenemos en nuestro mundo debido a que la gente tira a la basura objetos o comida que aun se pueden reutilizar de alguna forma, al tirar estos objetos provocamos un problema gravemente a todo lo que nos rodea como la tierra, el agua, el aire, etc..., Un ejemplo de a quien perjudicamos con estas acciones son algunas tribus Indus donde se tienen que bañar en un rio para bautizarse por motivo de su religión y ese rio en el que se bañan esta contaminado por fabricas que desechan esos residuos que nosotros tiramos y muchos Indus son envenenados al meterse al rio tóxico y un ejemplo de producto muy contaminante para el agua son las toallitas de vater ya que al tirar esa toallita se junta con más toallitas y se forma en un pegote gigante donde atasca la corriente del agua y cuando llega al mar miles peces se envenenan y esos peces son los que nos comemos luego, asi que al tirar algo a la basura o al vater hay que pensarselo mejor
-
-- la pregunta del día sería: **¿Porque cambias de movil?**, yo solo cambio de movil cuando este se rompe o se pasan ya varios años y ese movil se queda obsoleto ya que el movil es un aparato electronico que tiene consigo muchas herramientas y te permite trabajar pero si pasan demasiados años de ese modelo y en una empresa necesito un modelo superior para poder trabajar yo me lo compro y el anterior movil lo tiro en una papelera de reciclaje de moviles que esta en la misma tienda (Orange).
-
----
-
 ### 16/01/2026
 **Tema:** Objetivos de Desarrollo Sostenible (ODS)
 **Pregunta del día:** ¿Se van a conseguir algun día estos objetivos?
@@ -40,7 +28,19 @@ Miguel nos ha hecho buscar en Internet argumentos a favor de los ODS y yo he enc
 
 - La pregunta del día sería: **¿Se van a conseguir algun día estos objetivos?**, Yo creo que existe una posibilidad de que se cumplan pero es una posibilidad baja debido a que en este mundo ninguno vamos a estar de acuerdo en cumplirlos debido a que lleva unos costes elevados para cumplir estos objetivos y algunos sacrificios que algunos les duele cumplirlos. En conclusión estos objetivos se pueden cumplir pero para que se cumplan debemos de estar todos de acuerdo y dejar el egoismo por un lado.
 
---- 
+---
+
+### 09/01/2026
+**Tema:** Contaminación y Residuos
+**Pregunta del día:** ¿Porque cambias de movil?
+
+![alt text](image-1.png)
+
+- Hoy con Miguel hemos visto la **Contaminación y Residuos** es uno de los mayores problemas que tenemos en nuestro mundo debido a que la gente tira a la basura objetos o comida que aun se pueden reutilizar de alguna forma, al tirar estos objetos provocamos un problema gravemente a todo lo que nos rodea como la tierra, el agua, el aire, etc..., Un ejemplo de a quien perjudicamos con estas acciones son algunas tribus Indus donde se tienen que bañar en un rio para bautizarse por motivo de su religión y ese rio en el que se bañan esta contaminado por fabricas que desechan esos residuos que nosotros tiramos y muchos Indus son envenenados al meterse al rio tóxico y un ejemplo de producto muy contaminante para el agua son las toallitas de vater ya que al tirar esa toallita se junta con más toallitas y se forma en un pegote gigante donde atasca la corriente del agua y cuando llega al mar miles peces se envenenan y esos peces son los que nos comemos luego, asi que al tirar algo a la basura o al vater hay que pensarselo mejor
+
+- la pregunta del día sería: **¿Porque cambias de movil?**, yo solo cambio de movil cuando este se rompe o se pasan ya varios años y ese movil se queda obsoleto ya que el movil es un aparato electronico que tiene consigo muchas herramientas y te permite trabajar pero si pasan demasiados años de ese modelo y en una empresa necesito un modelo superior para poder trabajar yo me lo compro y el anterior movil lo tiro en una papelera de reciclaje de moviles que esta en la misma tienda (Orange).
+
+---
 
 ## Diciembre
 
