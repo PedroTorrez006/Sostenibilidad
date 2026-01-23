@@ -184,3 +184,11 @@ Miguel nos ha hecho buscar en Internet argumentos a favor de los ODS y yo he enc
 - Mejora de la Calidad de Vida: Contribuyen a un entorno más saludable, una mejor salud pública y comunidades más resilientes, aumentando la esperanza y el bienestar. 
 
 - La pregunta del día sería: **¿Se van a conseguir algun día estos objetivos?**, Yo creo que existe una posibilidad de que se cumplan pero es una posibilidad baja debido a que en este mundo ninguno vamos a estar de acuerdo en cumplirlos debido a que lleva unos costes elevados para cumplir estos objetivos y algunos sacrificios que algunos les duele cumplirlos. En conclusión estos objetivos se pueden cumplir pero para que se cumplan debemos de estar todos de acuerdo y dejar el egoismo por un lado.
+
+### 23/01/2026
+
+- Hoy con Miguel hemos visto el **plan de sostenibilidad empresarial**, que es una hoja de ruta estratégica en el que guía a una compañía para operar de forma responsable, integrando objetivos económicos, sociales y ambientales para asegurar su viabilidad a largo plazo, crear valor y minimizar impactos negativos. También hemos hablado de los ISO 9000 e ISO 14000 que son estándares internacionales de gestión , el ISO 9000 se encarga de la gestion de calidad y el 14000 de la gestion ambiental.
+
+- La sostenibilidad es una condición de supervivencia ya que sin esta sostenibilidad el planeta tendra una alta contaminación y alta escasez de recursos como la comida y al final todos los seres pedeceremos.
+
+- La pregunta del **¿Esto es Greenwhasing o sostenibilidad real?**, en mi opinion, creo que es Greenwhasing, debido a que a las empresas no les interesa gastar grandes cantidades de dinero en ideas sostenibles que no hacen dinero, las personas nos hemos vuelto más egoistas, ahora solo los grandes empresarios piensan en hacerse grandes y si hace falta gastaran todos los recursos de la tierra. 
