@@ -1,5 +1,36 @@
 # Diario de sostenibilidad de Pedro Torres Fernández
 
+
+## Febrero
+
+### 06/02/2026
+**Tema:** Las presentaciones de los grupos
+
+- Hoy con Miguel hemos visto **Las presentaciones de los grupos**, hoy es nuestro ultimo dia con Miguel de Sostenibilidad, hemos visto y presentado las paginas web, mi tema ha sido la Sostenibilidad en el Imperio Español y mi idea sostenible ha sido la reutilización de comida, lo he podido presentar todo menos mi idea así que dejo por aqui lo que yo queria exponer con mi idea sostenible:
+
+este es el enlace de la pagina web: **https://toast-04.github.io/TrabajoGrupalSostenibilidad/index.html**
+
+- Mi idea sostenible trata de la reutilización de alimentos mediante una tecnica conocida como "Trash Cooking, que consite en que las sobras de comidas restantes se puede reutilizar para hacer más platos, el objetivo que tiene es reducir el desperdicio de alimentos, ahorrar dinero, ayudar a disminuir la huella de carbono en el hogar y cambiar a la mentalidad de las personas de que todo lo que se compra tiene uso y reutilizar lo sobrante.
+
+Aquí muestro los 3 pilares fundamentales de la reutilización de alimentos
+
+- Vegetales y Cáscaras
+Las pieles de verduras, tallos de brócoli o partes feas de la cebolla no son basura. Se pueden hervir para crear caldos vegetales ricos en minerales o deshidratar para hacer sales aromatizadas.
+
+- Pan y Harinas
+El pan duro es uno de los alimentos más desperdiciados. Puede transformarse fácilmente en pan rallado casero, picatostes (croutons) para cremas, o bases para postres como el pudin.
+
+- Proteínas y Guisos
+Los restos de carne o pescado cocinado son la base perfecta para croquetas, rellenos de empanadas o lasañas. Nunca se debe recalentar sin más; el objetivo es crear un plato nuevo.
+
+- Esta idea viene de las historias que me cuenta mi abuelo de la epoca de la posguerra, tras la guerra civil muchos españoles quedaron en la ruina (sin recursos, sin comida, etc...), aumentando el hambre y la pobreza. A la hora de comer, mis bisabuelos utilizaban todo lo que tenian y lo que sobraba (que era muy raro que sobrara algo), se guardaba y se reutilizaba para el dia siguiente, uno de los platos que me contaba mi abuelo era con la carcasa del pollo que pedian en la carniceria sacar toda la carne restante y hacer un tipo de empanada, y con los huesos restantes se hacia un caldo junto a los restos de verduras. Por eso en mi casa nunca tiro nada
+
+Estas epocas de guerra nos deberia hacer reflexionar sobre el valor de la comida, ya que en epoca de guerra la comida es un elemento muy esencial, y sin comida morimos y nos acordaremos de aquellas veces que hemos tirado algun trozo de pan que estaba duro y no se podia comer, pero que en realidad tiene un segundo uso.
+
+Yo lo que intento esque la gente intente ver lo que supone eso, al igual mi abuelo conmigo, pero creo que la gente verdaderamente escarmienta cuando le ocurre lo mismo que a esa gente que pasa hambre.
+
+---
+
 ## Enero
 
 ### 23/01/2026
